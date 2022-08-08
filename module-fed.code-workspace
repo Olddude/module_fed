@@ -1,0 +1,8 @@
+{
+    "folders": [
+	{ "path": ".", "name": "." },
+        { "path": "./main-app" },
+        { "path": "./unsafe-app" },
+        { "path": "./safe-app" }
+    ]
+}
